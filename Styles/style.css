@@ -1,0 +1,49 @@
+p {
+    font-family: Arial;
+}
+
+.video-tital {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    width: 250px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+.video-stats {
+
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 0px;
+}
+
+.video-channelname {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+}
+
+.video-descriptin {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 250px;
+    line-height: 20px;
+}
+
+.shop-text {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 250px;
+    line-height: 18px;
+
+}
+
+.span-shop {
+    color: red;
+    cursor: pointer;
+}
+
+.span-shop:hover {
+    text-decoration: underline;
+
+}
